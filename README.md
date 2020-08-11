@@ -13,8 +13,9 @@ Para este primer ejercicio, les vamos a pedir que documenten algunas cosas direc
 **En este README:**
 
 Elaborar e incluir aquí diagramas de clase para esta implementación, con dos variantes posibles:
-* un solo diagrama con todas las clases,
+* un solo diagrama con todas las clases
 * tres diagramas distintos: uno para las plagas, otro para los elementos, otro para el barrio.
+![Directamente desde un link](https://media.discordapp.net/attachments/742515528509423708/742883687863025825/bP91JlCm58JtEOMNoHMwQll_G2iH50akCBLVWv7ZLvvjXDHoTq9bJ1Dr0SjOCz-C9rw628bfS9Ls246j8M9P7IkboD50Fd9G2tLl.png)
 
 En ambos casos, incluir solamente los métodos y atributos que consideren importantes para que alguien que no conoce el dominio ni el código pueda entender el diseño. En la sección [software](https://obj2-unahur.github.io/software) del sitio de la materia tienen algunas herramientas que pueden resultar útiles para elaborar los diagramas.
 
